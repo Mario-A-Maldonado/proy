@@ -1,1 +1,5 @@
+
 ingreso cambios locales
+
+ingreso cambios remotos
+
