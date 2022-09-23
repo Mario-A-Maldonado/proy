@@ -1,6 +1,8 @@
 original
 //sdsccd
-
 cambios locales
+cambios remotos 2
+
+cambios remotos 2.1
 
 Cambios del repositorio remoto
